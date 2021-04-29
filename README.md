@@ -9,14 +9,14 @@
 2. Press `Ctrl` + `Shift` + `J` + `K` to open the JavaScript [console](https://webmasters.stackexchange.com/a/77337) panel.
 3. Copy all the code in [WolfreeOne.js](https://raw.githubusercontent.com/WolfreeOne/WolfreeOne.js/main/WolfreeOne.js) and paste it into the console.
 4. Press `Enter` to execute the code.
+5. Visit http://account.wolfram.com for account details. The default password is the email address.
 
 ### How to show step-by-step solutions?
-1. Log in to http://wolframcloud.com.
-2. Create a [new notebook](https://www.wolframcloud.com/view/newNotebook?type=nb).
-3. Hit the equal key `=` twice.
-4. Type in your question. E.g., `y'=y`.
-5. Hit `Enter`.
-6. Click `Step-by-step solution`.
+1. Create a [new notebook](https://www.wolframcloud.com/view/newNotebook?type=nb).
+2. Hit the equal key `=` twice.
+3. Type in your question. E.g., `y'=y`.
+4. Hit `Enter`.
+5. Click `Step-by-step solution`.
 
 ## Troubleshooting
 
@@ -29,8 +29,11 @@
 
 ## FAQ
 
+### What is the email address to use for login?
+- Visit http://account.wolfram.com for account details.
+
 ### What is the default password?
-- The ID and password are both the email address.
+- The default password is the email address.
 
 ### What to do when the 14-day trial plan expires?
 - Use WolfreeOne.js to generate a new account with the free trial plan activated.
