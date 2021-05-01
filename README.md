@@ -4,7 +4,7 @@
 
 ## Quickstart Guide
 
-1. Pick an email address from the latest [pre-generated accounts].
+1. Pick an email address from the latest [pre-generated accounts](https://github.com/WolfreeOne/WolfreeOne.js/commits/main/email).
 3. Create a [new notebook](https://www.wolframcloud.com/view/newNotebook?type=nb). The default password is the email address.
 4. Hit the equal key `=` twice.
 5. Type in your question. E.g., `y'=y`.
