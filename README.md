@@ -2,21 +2,22 @@
 - Get FREE access to [Wolfram|One Professional Plus](https://www.wolfram.com/wolfram-one/pricing/professional-use.php) by renewing the 14-day trial automatically.
 - Unlock [step-by-step solutions](https://www.wolframalpha.com/examples/pro-features/step-by-step-solutions/) with [integrated interactive access](https://reference.wolfram.com/language/guide/WolframAlphaIntegration.html) to [Wolfram|Alpha Pro Premium](https://www.wolframalpha.com/pro/pricing/).
 
-## Usage
+## Quickstart Guide
 
-### How to use WolfreeOne.js?
-1. Browse http://account.wolfram.com in private with [Incognito](https://en.wikipedia.org/wiki/Private_browsing#Support_in_popular_browsers) mode.
-2. Press `Ctrl` + `Shift` + `J` + `K` to open the JavaScript [console](https://webmasters.stackexchange.com/a/77337) panel.
+1. Pick an email address from the list of [pre-generated accounts].
+2. Create a [new notebook](https://www.wolframcloud.com/view/newNotebook?type=nb). The default password is the email address.
+3. Hit the equal key `=` twice.
+4. Type in your question. E.g., `y'=y`.
+5. Hit `Enter`.
+6. Click `Step-by-step solution`.
+
+Alternatively, follow the steps below to create your own private account.
+
+1. Visit http://account.wolfram.com.
+2. Press `Ctrl` + `Shift` + `J` + `K` to open the [console](https://webmasters.stackexchange.com/a/77337).
 3. Copy all the code in [WolfreeOne.js](https://raw.githubusercontent.com/WolfreeOne/WolfreeOne.js/main/WolfreeOne.js) and paste it into the console.
 4. Press `Enter` to execute the code.
-5. Visit http://account.wolfram.com for account details. The default password is the email address.
-
-### How to show step-by-step solutions?
-1. Create a [new notebook](https://www.wolframcloud.com/view/newNotebook?type=nb).
-2. Hit the equal key `=` twice.
-3. Type in your question. E.g., `y'=y`.
-4. Hit `Enter`.
-5. Click `Step-by-step solution`.
+5. A Pro account is created every ten seconds. The account ID and password are both the email address.
 
 ## Troubleshooting
 
@@ -28,9 +29,6 @@
 - You have to manually type "allow paste" into the console to enable pasting.
 
 ## FAQ
-
-### What is the email address to use for login?
-- Visit http://account.wolfram.com for account details.
 
 ### What is the default password?
 - The default password is the email address.
