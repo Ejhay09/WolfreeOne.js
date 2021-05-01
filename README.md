@@ -4,14 +4,14 @@
 
 ## Quickstart Guide
 
-1. Pick an email address from the latest [pre-generated accounts](https://github.com/WolfreeOne/WolfreeOne.js/commits/main/email).
+1. Pick an email address from the latest [pre-generated accounts](https://github.com/WolfreeOne/email/commits/main).
 3. Create a [new notebook](https://www.wolframcloud.com/view/newNotebook?type=nb). The default password is the email address.
 4. Hit the equal key `=` twice.
 5. Type in your question. E.g., `y'=y`.
 6. Hit `Enter`.
 7. Click `Step-by-step solution`.
 
-Alternatively, follow the steps below to generate your own private account.
+Alternatively, follow the steps below to generate your own private accounts
 
 1. Visit http://account.wolfram.com.
 2. Press `Ctrl` + `Shift` + `J` + `K` to open the [console](https://webmasters.stackexchange.com/a/77337).
@@ -25,17 +25,8 @@ Alternatively, follow the steps below to generate your own private account.
 - Log out and log back in to have the trial take effect.
 
 ### I can't paste anything into the console.
-- By default, Firefox does not allow you to paste stuff into the dev tools console.
+- By default, Firefox does not allow you to paste stuff into the console.
 - You have to manually type "allow paste" into the console to enable pasting.
-
-## FAQ
-
-### What is the default password?
-- The default password is the email address.
-
-### What to do when the 14-day trial plan expires?
-- Use WolfreeOne.js to generate a new account with the free trial plan activated.
-- Then continue using Wolfram|One for another 14 days with that new account.
 
 ## Available Cloud Resources
 
