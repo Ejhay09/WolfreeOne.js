@@ -4,14 +4,14 @@
 
 ## Quickstart Guide
 
-1. Pick an email address from the latest list of [pre-generated accounts].
+1. Pick an email address from the latest [pre-generated accounts].
 3. Create a [new notebook](https://www.wolframcloud.com/view/newNotebook?type=nb). The default password is the email address.
 4. Hit the equal key `=` twice.
 5. Type in your question. E.g., `y'=y`.
 6. Hit `Enter`.
 7. Click `Step-by-step solution`.
 
-Alternatively, follow the steps below to create your own private account.
+Alternatively, follow the steps below to generate your own private account.
 
 1. Visit http://account.wolfram.com.
 2. Press `Ctrl` + `Shift` + `J` + `K` to open the [console](https://webmasters.stackexchange.com/a/77337).
