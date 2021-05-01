@@ -3,7 +3,7 @@
   while (true) {
     await fetch('/logout')
     const response = await fetch('/login/create')
-    const csrf = new DOMParser()
+    const _csrf = new DOMParser()
       .parseFromString(await response.text(), 'text/html')
       .getElementsByName('_csrf')[0].value
     const email = new Date()
@@ -23,7 +23,7 @@
         & passwordConfirm = ${email}
         & accountAgreement = true
         & access =
-        & _csrf = ${csrf}
+        & _csrf = ${_csrf}
       `.replace(/\s/g, '')
     })
     await fetch('/api/access/wolfram-one/trial')
