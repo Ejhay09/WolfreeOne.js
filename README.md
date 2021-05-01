@@ -17,7 +17,7 @@ Alternatively, follow the steps below to create your own private account.
 2. Press `Ctrl` + `Shift` + `J` + `K` to open the [console](https://webmasters.stackexchange.com/a/77337).
 3. Copy all the code in [WolfreeOne.js](https://raw.githubusercontent.com/WolfreeOne/WolfreeOne.js/main/WolfreeOne.js) and paste it into the console.
 4. Press `Enter` to execute the code.
-5. A Pro account is created every ten seconds. The account ID and password are both the email address.
+5. A Pro account is created every ten seconds. The default password is the email address.
 
 ## Troubleshooting
 
